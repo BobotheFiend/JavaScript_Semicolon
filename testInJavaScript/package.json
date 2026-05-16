@@ -1,0 +1,16 @@
+{
+  "name": "testinjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Arithemetic-Function.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
