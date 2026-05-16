@@ -3,13 +3,15 @@ const prompt = require("prompt-sync")();
 let number = (prompt("Enter the number... "))
 
 function numberChecker(number){
-    int array
+    let numbers = []
     let count = 1;
+    let index = 0;
     while( count <= number){
+        numbers[index++] = count;
         count++;
                
         }
-    return count-1
+    return numbers
     }
 
 let loopingThrough = numberChecker(number);
